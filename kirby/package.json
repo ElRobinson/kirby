@@ -11,5 +11,9 @@
   "devDependencies": {
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "kaboom": "^3000.1.17",
+    "nvm": "^0.0.4"
   }
 }
